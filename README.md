@@ -1,3 +1,5 @@
+Run via Coursework1Application.java
+
 ## REST API for Drone Delivery
 
 This is a REST API that uses A* to find a path between a restaurant in Edinburgh and UofE Appleton Tower.
